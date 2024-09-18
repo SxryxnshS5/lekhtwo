@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945114607704",
+    "project_id": "lekhtwo-d6f73",
+    "storage_bucket": "lekhtwo-d6f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945114607704:android:5ccf66cfee35eee3809a2d",
+        "android_client_info": {
+          "package_name": "com.example.lekhtwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8U3b8yRSplXuu2PNwUgs5MmnIOSQ97h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
