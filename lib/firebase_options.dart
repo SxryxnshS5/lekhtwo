@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBIRAB4DPNrCE0JyFRUwi02PLjDDRVveOU',
-    appId: '1:584188071466:android:4a0c9437bf8eb0082dbd53',
-    messagingSenderId: '584188071466',
-    projectId: 'lekh-revised',
-    storageBucket: 'lekh-revised.appspot.com',
+    apiKey: 'AIzaSyB8U3b8yRSplXuu2PNwUgs5MmnIOSQ97h8',
+    appId: '1:945114607704:android:5ccf66cfee35eee3809a2d',
+    messagingSenderId: '945114607704',
+    projectId: 'lekhtwo-d6f73',
+    storageBucket: 'lekhtwo-d6f73.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBceeMlz496nYwGGQf41uXmqrUhwzAN_rs',
-    appId: '1:584188071466:ios:5f6e23fb87e255ea2dbd53',
-    messagingSenderId: '584188071466',
-    projectId: 'lekh-revised',
-    storageBucket: 'lekh-revised.appspot.com',
-    iosBundleId: 'com.example.lekhRevised',
+    apiKey: 'AIzaSyCj_qcRBPE1JkbxH11aiJGHHk3mMzSkgAo',
+    appId: '1:945114607704:ios:abe10bc8e320b46c809a2d',
+    messagingSenderId: '945114607704',
+    projectId: 'lekhtwo-d6f73',
+    storageBucket: 'lekhtwo-d6f73.appspot.com',
+    iosBundleId: 'com.example.lekhtwo',
   );
 }
